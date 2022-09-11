@@ -1,5 +1,5 @@
 # libgenSearchDL
-Download multiples files using Selenium and Requests in Python
+Download multiples files using Selenium and Requests in Python.
 
 use libgenDLentireSearch.py and set your search and number of pages.
 Or,
